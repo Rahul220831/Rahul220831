@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Sharma
 - 👀 I’m interested in Coding,Gaming,Problem Solving
-- 🌱 I’m currently learning React/javascript,Android IOS Development
+- 🌱 I’m currently learning React/JavaScript,Android/IOS Development
 - 💞️ I’m looking to collaborate on Web Development Projects,Software Development,Web Applications
 - 📫 How to reach me ... Email: rahul94186@gmail.com 
 
